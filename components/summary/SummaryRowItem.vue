@@ -44,7 +44,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .summaryRowItem
   flex 1 0 0
@@ -52,8 +52,6 @@ export default {
   display flex
   justify-content center
   flex-flow column
-  // padding-right 32px
-  // text-align center
 
   &__title
     padding-bottom $m5

@@ -40,7 +40,7 @@ Portal(
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/margins'
+@import '../assets/stylus/variables'
 
 .descError
   padding-bottom $m8

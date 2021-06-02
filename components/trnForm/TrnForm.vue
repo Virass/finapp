@@ -359,7 +359,7 @@ Portal(to="modal")
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .trnForm
   &__handler
@@ -442,7 +442,7 @@ Portal(to="modal")
 </style>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 $transition-style = cubic-bezier(.17, .04, .03, 1)
 

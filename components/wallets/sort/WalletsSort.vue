@@ -76,7 +76,7 @@ LayoutComponentWrap(:contentPadding="$store.state.ui.pc")
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables"
+@import '../assets/stylus/variables'
 
 item-bg-active()
   background var(--c-bg-6)

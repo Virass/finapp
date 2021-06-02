@@ -106,7 +106,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 item-bg-active()
   background var(--c-bg-6)

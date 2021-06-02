@@ -148,7 +148,7 @@ Portal(to="modal")
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .baseModalOveflowAnim
   &-enter-active

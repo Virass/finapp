@@ -27,7 +27,7 @@ export default {
 </template>
 
 <style lang="stylus">
-@import "~assets/stylus/variables"
+@import '../assets/stylus/variables'
 
 .container
   padding $m9

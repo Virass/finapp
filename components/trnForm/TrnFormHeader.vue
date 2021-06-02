@@ -13,8 +13,7 @@ export default {
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/animations'
+@import '../assets/stylus/variables'
 
 .trnFormHeaderItem
   cursor pointer
@@ -33,8 +32,7 @@ export default {
 </style>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/media'
+@import '../assets/stylus/variables'
 
 .trnFormHeader
   display grid

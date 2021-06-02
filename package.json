@@ -50,6 +50,7 @@
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.1",
     "node-notifier": "^10.0.0",
+    "nuxt-vite": "^0.1.1",
     "pug": "^3.0.2",
     "pug-plain-loader": "^1.1.0",
     "style-loader": "^2.0.0",

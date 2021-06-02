@@ -75,8 +75,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/media'
+@import '../assets/stylus/variables'
 
 .icon
   display flex

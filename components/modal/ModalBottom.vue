@@ -128,7 +128,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 $transition-style = cubic-bezier(.17, .04, .03, 1)
 
@@ -172,7 +172,7 @@ $transition-style = cubic-bezier(.17, .04, .03, 1)
 </style>
 
 <style lang="stylus">
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .modalBottom
   z-index 100

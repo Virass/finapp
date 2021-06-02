@@ -1,5 +1,5 @@
 import dayjs from 'dayjs'
-const calendar = require('dayjs/plugin/calendar')
+import calendar from 'dayjs/plugin/calendar'
 
 dayjs.extend(calendar)
 

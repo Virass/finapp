@@ -47,7 +47,8 @@ export default {
 
   // Global CSS (https://go.nuxtjs.dev/config-css)
   css: [
-    { src: '~/assets/stylus/index.styl' }
+    { src: '~/assets/stylus/index.styl' },
+    '@/assets/stylus/variables.styl'
   ],
 
   // Auto import components (https://go.nuxtjs.dev/config-components)
@@ -94,7 +95,9 @@ export default {
     // https://composition-api.nuxtjs.org/
     '@nuxtjs/composition-api/module',
     // https://typescript.nuxtjs.org/
-    '@nuxt/typescript-build'
+    '@nuxt/typescript-build',
+    // https://github.com/nuxt/vite
+    'nuxt-vite'
   ],
 
   // Router middleware

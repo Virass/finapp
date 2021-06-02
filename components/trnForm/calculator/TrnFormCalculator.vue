@@ -109,7 +109,7 @@ div
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .trnFormButton
   padding $m7

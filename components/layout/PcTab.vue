@@ -16,7 +16,8 @@ transition(name="animation-tab")
 </template>
 
 <style lang="stylus">
-@import "~assets/stylus/variables/margins"
+@import '../assets/stylus/variables'
+
 .layout-tab
   .categories
     padding-bottom 0
@@ -35,7 +36,7 @@ transition(name="animation-tab")
 </style>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables/scroll"
+// @import "~assets/stylus/variables/scroll"
 
 .layout-tab
   z-index 2

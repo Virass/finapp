@@ -48,10 +48,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/fonts'
-@import '~assets/stylus/variables/media'
-@import '~assets/stylus/variables/scroll'
+@import '../assets/stylus/variables'
 
 .chart-popup
   z-index 2

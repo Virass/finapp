@@ -108,8 +108,6 @@ TrnFormModal.doNotCloseTrnModal(
 </template>
 
 <style lang="stylus">
-@import "~assets/stylus/variables/margins"
-
 .trnFormWalletsList
   .walletsList__toogle
     border-top 0

@@ -3,8 +3,7 @@
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/fonts'
+@import '../assets/stylus/variables'
 
 .appName
   margin-bottom 20px

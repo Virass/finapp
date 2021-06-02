@@ -71,8 +71,7 @@ TrnFormModal(
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables/margins"
-@import "~assets/stylus/variables/media"
+@import '../assets/stylus/variables'
 
 .description
   padding 0 $m7

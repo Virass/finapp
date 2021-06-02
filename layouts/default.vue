@@ -100,7 +100,7 @@ export default {
 </style>
 
 <style lang="stylus">
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 *
   box-sizing border-box

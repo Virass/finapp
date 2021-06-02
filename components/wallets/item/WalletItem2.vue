@@ -73,7 +73,7 @@ export default {
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .walletItemGrid
   overflow hidden

@@ -28,8 +28,6 @@ TrnFormModal.doNotCloseTrnModal(
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/margins'
-
 .trnFormWalletsList
   .walletsList__toogle
     margin 0

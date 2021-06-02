@@ -106,7 +106,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables/fonts"
+@import '../assets/stylus/variables'
 
 .form
   overflow hidden

@@ -121,7 +121,7 @@ Portal(
 </template>
 
 <style lang="stylus">
-@import "~assets/stylus/variables"
+@import '../assets/stylus/variables'
 
 .modalBottom
   .walletItemGrid

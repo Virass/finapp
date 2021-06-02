@@ -104,9 +104,7 @@ export default {
 </template>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables/animations'
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/media'
+@import '../assets/stylus/variables'
 
 .create-btn
   flex-grow 1

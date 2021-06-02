@@ -33,7 +33,7 @@ label.checkbox(:class="{ _alt: alt }")
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables"
+@import '../assets/stylus/variables'
 
 .checkbox
   position relative

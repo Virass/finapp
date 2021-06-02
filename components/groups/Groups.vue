@@ -46,7 +46,7 @@ LayoutComponentWrap
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables"
+@import '../assets/stylus/variables'
 
 .list
   display grid

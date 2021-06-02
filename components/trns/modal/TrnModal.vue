@@ -215,8 +215,7 @@ Portal(
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables/margins"
-@import "~assets/stylus/variables/scroll"
+@import '../assets/stylus/variables'
 
 .marginBottom
   margin-bottom $m7

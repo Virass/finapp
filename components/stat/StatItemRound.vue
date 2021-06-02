@@ -124,7 +124,7 @@ export default {
 </style>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .statItemRound
   overflow hidden

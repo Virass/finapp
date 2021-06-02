@@ -123,7 +123,7 @@ export default {
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/margins'
+@import '../assets/stylus/variables'
 
 .component__content-main
   .walllets.dashboardItems
@@ -151,7 +151,7 @@ export default {
 </style>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables'
+@import '../assets/stylus/variables'
 
 .layout
   overflow hidden

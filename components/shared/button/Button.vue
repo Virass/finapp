@@ -61,8 +61,7 @@ export default {
 </template>
 
 <style lang="stylus">
-@import '~assets/stylus/variables/animations'
-@import '~assets/stylus/variables/media'
+@import '../assets/stylus/variables'
 
 .d-button-cirle
   display flex
@@ -93,10 +92,7 @@ export default {
 </style>
 
 <style lang="stylus" scoped>
-@import '~assets/stylus/variables/animations'
-@import '~assets/stylus/variables/margins'
-@import '~assets/stylus/variables/media'
-@import '~assets/stylus/variables/fonts'
+@import '../assets/stylus/variables'
 
 .d-button
   cursor pointer

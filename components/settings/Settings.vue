@@ -91,9 +91,7 @@ LayoutComponentWrap(:contentPadding="false")
 </template>
 
 <style lang="stylus" scoped>
-@import "~assets/stylus/variables/fonts"
-@import "~assets/stylus/variables/margins"
-@import "~assets/stylus/variables/media"
+@import '../assets/stylus/variables'
 
 .settings
   padding 16px
